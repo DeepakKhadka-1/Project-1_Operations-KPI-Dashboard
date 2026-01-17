@@ -15,7 +15,7 @@ The dashboard is designed to help business and operations teams identify deliver
 📷 Dashboard Preview
 
 Below is the final Power BI dashboard highlighting operational performance, SLA risk, and delivery efficiency by region.
-[Operations KPI Dashboard](./images/Dashboard.png) 
+[Operations KPI Dashboard] (./images/Dashboard.png) 
 
 
 
@@ -204,5 +204,6 @@ Business Insight Storytelling
 
 
 📌 Disclaimer
+
 
 This project is a portfolio-based analytics case study created for learning and demonstration purposes using publicly available data. It does not represent proprietary or production business data.
